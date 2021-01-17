@@ -55,5 +55,6 @@
       * commit을 하면 Local Repository로 갱신한다.
     * Local Repository
       * push를 하면 이제 원격 저장소에 갱신 및 저장된다.
-  
-    ![Image for post](https://miro.medium.com/max/686/1*diRLm1S5hkVoh5qeArND0Q.png)
+  * Working Tree ->(add) Stage Area ->(commit) Local Repository
+    
+    
