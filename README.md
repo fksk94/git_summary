@@ -56,5 +56,6 @@
     * Local Repository
       * push를 하면 이제 원격 저장소에 갱신 및 저장된다.
   * Working Tree ->(add) Stage Area ->(commit) Local Repository
+  * --no-ff merge 옵션을 잊지말자.
     
     
